@@ -1,0 +1,36 @@
+{
+    "question": [
+    "1. What is the correct file extension for Python files?",
+    "2. Which method can be used to return a string in upper case letters?",
+    "3. Which operator is used to multiply numbers?",
+    "4. Which statement is used to stop a loop?"
+    ],
+    "answer": [
+    3,
+    2,
+    1,
+    1
+    ],
+    "options": [
+    [".pyt",
+        ".pyth",
+        ".py",
+        ".pt"
+    ],
+    ["upper",
+        "toUpperCase",
+        "upperCase",
+        "uppercase"
+    ],
+    ["*",
+        "x",
+        "%",
+        "#"
+    ],
+    ["break",
+        "exit",
+        "return",
+        "stop"
+    ]
+    ]
+}
